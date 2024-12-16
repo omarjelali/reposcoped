@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="table test" language="en" table="u_table_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>table test</label>
+            <language>en</language>
+            <name>u_table_test</name>
+            <plural>table tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-16 15:01:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table test</sys_name>
+            <sys_package display_value="test appli scoped global" source="96f6c941c3a69610c074f8cc0501312d">96f6c941c3a69610c074f8cc0501312d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test appli scoped global">96f6c941c3a69610c074f8cc0501312d</sys_scope>
+            <sys_update_name>sys_documentation_u_table_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-16 15:01:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

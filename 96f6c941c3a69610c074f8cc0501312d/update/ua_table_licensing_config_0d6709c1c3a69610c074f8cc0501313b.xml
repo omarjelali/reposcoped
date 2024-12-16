@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>u_table_test</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 15:01:38</sys_created_on>
+        <sys_id>0d6709c1c3a69610c074f8cc0501313b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_table_test</sys_name>
+        <sys_package display_value="test appli scoped global" source="96f6c941c3a69610c074f8cc0501312d">96f6c941c3a69610c074f8cc0501312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test appli scoped global">96f6c941c3a69610c074f8cc0501312d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_0d6709c1c3a69610c074f8cc0501313b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:01:38</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
